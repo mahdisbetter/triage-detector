@@ -1,1 +1,2 @@
-hear me out!!! (proof of concept educational purposes only)
+# by mahdi1337
+detects if ran in triage
